@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/offline-personal-finance-tracker-227940-227960/finance_tracker_frontend"
+}
